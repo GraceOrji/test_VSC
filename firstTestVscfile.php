@@ -1,0 +1,1 @@
+<?php echo 'first test VSC file' ;?>
