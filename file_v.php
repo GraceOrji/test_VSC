@@ -1,0 +1,1 @@
+<?php echo "This is a test_VSC file called file_v.php"?>
